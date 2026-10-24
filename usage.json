@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix-matrix",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix-matrix",
+  "usageRepository": "https://github.com/x12i-sdk/analytix-matrix",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix-matrix",
+  "example": {
+    "title": "Aggregate synthetic orders into a region and status matrix",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:33:11.355103+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "71286b902e344d277b11ec4d74745ef570efda9965c2087534363694e63fc20e",
+    "manifestSha256": "eb30bd79d0d8f1cad6560ada963bbc620b7ce3d78a1ce1d13d9c403df001540d"
+  },
+  "validationFiles": {
+    "src/index.mjs": "71286b902e344d277b11ec4d74745ef570efda9965c2087534363694e63fc20e"
+  }
+}
